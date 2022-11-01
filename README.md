@@ -1,4 +1,4 @@
-# IDeaS 
+# IDeaS | Revenue Management Software & Solutions
 ##### a Sas company
 
 ### Vision
